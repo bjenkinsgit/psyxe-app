@@ -2,6 +2,8 @@
 
 A native macOS AI assistant that connects to your Apple Notes, Reminders, Contacts, Weather, and Files — with multi-agent orchestration, scheduled tasks, custom tool creation, and more.
 
+**[Visit psyxe.app](https://pro.psyxe.app/)** for screenshots, demos, and pricing.
+
 ## Download
 
 **[Latest Release](https://github.com/bjenkinsgit/psyxe-app/releases/latest)** — Download the DMG, drag to Applications, and launch.
@@ -60,7 +62,7 @@ psyXe runs entirely on your Mac. It connects to a local or remote LLM (any OpenA
 
 ## Getting a License
 
-After your trial expires, you can purchase a license to unlock all features permanently. Contact [psyxe.app](https://psyxe.app) for pricing and license keys.
+After your trial expires, you can purchase a license to unlock all features permanently. Visit **[pro.psyxe.app](https://pro.psyxe.app/)** for pricing and to purchase a license key.
 
 ## Related Projects
 
